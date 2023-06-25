@@ -1,0 +1,103 @@
+body{
+    overflow: auto;
+    background-color: lavender;
+    margin:0px;
+}
+h1{
+    text-align: center;
+    font-family: Pathway Extreme;
+    color: rgba(18, 35, 189, 0.589);
+    
+}
+img{
+    float: left;
+    margin-left: 15px;
+    margin-right: 20px;
+    width: 500px;
+    box-shadow: 2px 2px 4px black;
+    border-radius: 35px;
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(2, 2, 2);
+    text-shadow: 2px 2px 4px rgb(250, 158, 212);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(2, 2, 2);
+    text-shadow: 2px 2px 4px rgb(136, 111, 248);
+    font-size: x-large;
+}
+#p1{
+    font-size: x-large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+#img2{
+    float: right;
+    width: 500px;
+    margin-left: 15px;
+    margin-right: 20px;
+    box-shadow: 2px 2px 4px black;
+    border-radius: 35px;
+}
+#p3{
+    font-size: x-large;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fa-solid.fa-house.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-circle-info.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-regular.fa-folder-open.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-brands.fa-envira.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-phone-volume.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-house.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-solid.fa-circle-info.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-regular.fa-folder-open.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-brands.fa-envira.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-solid.fa-phone-volume.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+header{
+    background-color: rgb(250, 223, 166);
+    padding: 25px;
+    border-radius: 20px;
+}
+.icons{
+    text-align: center;
+}
+.icons a{
+    text-decoration: none;
+    margin-right: 35px;
+}
+

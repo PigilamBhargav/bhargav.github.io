@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    background-color:lavender;
+}
+.fa-regular.fa-folder-open.fa-3x{
+    color:rgb(235, 156, 38);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-regular.fa-folder-open.fa-3x:hover{
+    color:rgb(252, 227, 190);
+}
+header{
+    display: inline-flex;
+    background-color: navy;
+    padding: 15px;
+    border-radius: 20px;
+}
+.icons{
+    text-align: left;
+}
+.icons a{
+    text-decoration: none;
+    margin-right: 0px;
+}
+h1{
+    font-family: Pathway Extreme;
+    font-size: xx-large;
+    padding-left: 5px;
+    text-shadow: 2px 2px 5px olive;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding-left: 5px;
+}
+img{
+    float: right;
+    margin-left: 15px;
+    margin-right: 20px;
+    width: 500px;
+    box-shadow: 2px 2px 4px black;
+    border-radius: 35px;
+    
+}
+h3{
+    font-family: Pathway Extreme;
+    font-size: larger;
+    padding-left: 5px;
+    text-shadow: 2px 2px 5px olive; 
+}

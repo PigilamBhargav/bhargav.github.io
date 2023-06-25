@@ -1,0 +1,76 @@
+body{
+    background-image: url(images/edu2nd.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed ;
+    background-size: cover;
+}
+header{
+    padding: 10px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    margin: 0px;
+    font-size: 30px;
+    font-style:italic;
+    text-shadow: 3px 3px 5px rgb(56, 238, 214), -3px -3px 5px rgb(238, 89, 171);
+}
+.navbar div{
+    margin:0px;
+    padding-left: 10px;
+}
+.navbar a{
+    color: rgb(109, 241, 109);
+    font-weight: bold;
+    padding-right: 15px;
+    text-size-adjust: 50px;
+    text-decoration: none;
+    display: inline-block;
+}
+.navbar a:hover{
+    color: whitesmoke;
+}
+.fa-solid.fa-house.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-circle-info.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-regular.fa-folder-open.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-brands.fa-envira.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-phone-volume.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-house.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-solid.fa-circle-info.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-regular.fa-folder-open.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-brands.fa-envira.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-solid.fa-phone-volume.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+footer{
+    padding-left:10px;
+    padding-top: 10px;
+    font-style:bold;
+    color:white;
+    font-size: 20px;
+}
+
+

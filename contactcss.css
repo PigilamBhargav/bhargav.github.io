@@ -1,0 +1,75 @@
+body{
+    overflow: auto;
+    background-color: lavender;
+    margin:0px;
+}
+.fa-solid.fa-house.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-circle-info.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-regular.fa-folder-open.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-brands.fa-envira.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-phone-volume.fa-3x{
+    color:rgb(13, 90, 206);
+    text-shadow: 2px 2px 5px black;
+}
+.fa-solid.fa-house.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-solid.fa-circle-info.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-regular.fa-folder-open.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-brands.fa-envira.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+.fa-solid.fa-phone-volume.fa-3x:hover{
+    color:rgb(100, 157, 243);
+}
+header{
+    background-color: rgb(250, 223, 166);
+    padding: 25px;
+    border-radius: 20px;
+}
+.icons{
+    text-align: center;
+}
+.icons a{
+    text-decoration: none;
+    margin-right: 35px;
+}
+h1{
+    text-align: center;
+    text-shadow: -2px -2px 5px rgb(107, 224, 245);
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(219, 156, 60);
+    font-weight: bold;
+}
+pre{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+footer{
+    text-align:left;
+    font-size: x-large;
+    padding-left:12px;
+    padding-top: 35px;
+    font-style:bold;
+    font-size: 20px;
+}
+
